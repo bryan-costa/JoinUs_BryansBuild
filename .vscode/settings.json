@@ -1,0 +1,16 @@
+{
+    "sqltools.connections": [
+        {
+            "connectionTimeout": 60,
+            "database": "joinus_db",
+            "dialect": "MySQL",
+            "isActive": true,
+            "isConnected": true,
+            "name": "MySQL",
+            "password": "BCosta@1026",
+            "port": 3306,
+            "server": "localhost",
+            "username": "root"
+        }
+    ]
+}
